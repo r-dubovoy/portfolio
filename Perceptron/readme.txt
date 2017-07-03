@@ -1,0 +1,2 @@
+Single perceptron for classification
+ 
